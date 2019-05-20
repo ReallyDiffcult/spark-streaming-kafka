@@ -1,0 +1,4 @@
+lz4==2.1.6
+python-snappy==0.5.4
+kafka-python==1.4.6
+fastavro==0.21.23
